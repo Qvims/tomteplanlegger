@@ -2,7 +2,7 @@
 
 En interaktiv 3D-planlegger for garasje og tomt, i én enkelt HTML-fil. Ingen bygging, ingen avhengigheter, ingen server — åpne fila i en nettleser og den kjører.
 
-**[→ Prøv den her](https://BRUKERNAVN.github.io/tomteplanlegger/)**
+**[→ Prøv den her](https://qvims.github.io/tomteplanlegger/)**
 
 ![status](https://img.shields.io/badge/avhengigheter-kun%20three.js%20via%20CDN-blue)
 
@@ -39,7 +39,7 @@ Plasser, roter og dimensjonér bygg og uteobjekter på en tomt, og se resultatet
 Last ned `index.html` og åpne den. Det er alt.
 
 ```bash
-git clone https://github.com/BRUKERNAVN/tomteplanlegger.git
+git clone https://github.com/Qvims/tomteplanlegger.git
 cd tomteplanlegger
 # åpne index.html i nettleseren
 ```
